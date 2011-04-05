@@ -1,0 +1,10 @@
+<canvas>
+  <simplelayout axis="x" spacing="4"/>
+
+  <view bgcolor="blue" width="150" height="450">
+    <scrollbar axis="y"/>
+  </view>
+  <view bgcolor="green" width="150" height="450"/>
+</canvas>
+
+    

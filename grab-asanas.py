@@ -13,7 +13,6 @@ soup = BeautifulSoup(html)
 #print soup.prettify()
 
 lis = soup.findAll('li')
-lis = lis[:3]
 
 import re
 
