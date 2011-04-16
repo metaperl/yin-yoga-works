@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib
 # Get a file-like object for the Python Web site's home page.
 
